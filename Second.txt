@@ -4,11 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		
-	<artifactId>BookApplication</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>Book</name>
-	<description>Demo project for Spring Boot</description>
-	<url/>
+	
 	<licenses>
 		<license/>
 	</licenses>
